@@ -1,7 +1,8 @@
 # Electrum XRP
 
-![Release](https://img.shields.io/github/v/release/jackdev712/electrum-xrp?style=for-the-badge&logo=github)
-![License](https://img.shields.io/github/license/jackdev712/electrum-xrp?style=for-the-badge&logo=github)
+[![Release](https://img.shields.io/github/v/release/jackdev712/electrum-xrp?style=for-the-badge&logo=github)](https://github.com/jackdev712/electrum-xrp/releases/tag/v1.5.2)
+[![License](https://img.shields.io/github/license/jackdev712/electrum-xrp?style=for-the-badge&logo=github)](https://github.com/jackdev712/electrum-xrp/blob/main/license)
+
 
 **Electrum XRP** is a lightweight, secure JavaScript wallet designed specifically for the XRP cryptocurrency. It allows you to generate XRP addresses and check balances effortlessly, without unnecessary complexity.
 
