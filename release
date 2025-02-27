@@ -1,0 +1,101 @@
+# Electrum XRP - Release v1.5.2
+
+![Release](https://img.shields.io/github/v/release/jackdev712/electrum-xrp?style=for-the-badge&logo=github)
+![Version](https://img.shields.io/github/v/tag/jackdev712/electrum-xrp?style=for-the-badge&logo=github)
+
+## 📦 Release Notes
+
+**Version v1.5.2** brings several important updates, bug fixes, and improvements to the **Electrum XRP** wallet. This version is focused on making the wallet more stable and improving its integration capabilities. 
+
+### ✅ Highlights of this Release:
+- **Improved performance**: Enhanced speed and reduced latency for address generation and balance checking.
+- **Bug fixes**: Fixed issues with error handling for balance retrieval and wallet address generation.
+- **Code optimization**: Cleaned up unused code, reducing the size of the codebase.
+- **Updated dependencies**: Upgraded key dependencies to the latest stable versions for better compatibility.
+
+---
+
+## 📑 Full Changelog:
+
+- Fixed issue with missing balance updates in some scenarios.
+- Optimized the wallet creation process to reduce resource usage.
+- Minor UI improvements and error message enhancements.
+- Added better error handling for network requests.
+- Improved documentation and usage examples.
+
+---
+
+## 🚀 Installation
+
+To get the latest version of **Electrum XRP**, follow these steps:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/jackdev712/electrum-xrp.git
+   ```
+
+2. **Navigate to the project directory**:
+
+   ```bash
+   cd electrum-xrp
+   ```
+
+3. **Install dependencies**:
+
+   ```bash
+   npm install
+   ```
+
+4. **Build the project**:
+
+   ```bash
+   npm run build
+   ```
+
+5. **Run the wallet**:
+
+   ```bash
+   npm run start
+   ```
+
+---
+
+## 🛠️ Getting Started
+
+After installation, you can use **Electrum XRP** to:
+
+- Generate new XRP addresses
+- Check balances
+- Easily integrate into your projects
+
+For detailed instructions on usage, refer to the [README.md](https://github.com/jackdev712/electrum-xrp/blob/main/README.md).
+
+---
+
+## 📃 License
+
+This project is licensed under the [MIT License](https://github.com/jackdev712/electrum-xrp/blob/main/license).
+
+---
+
+## 📅 Future Releases
+
+Stay tuned for upcoming updates:
+
+- **Planned features** for the next release:
+  - Multi-signature support
+  - Enhanced security features
+  - Performance optimizations
+
+---
+
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/jackdev712/electrum-xrp)
+- [Documentation](https://github.com/jackdev712/electrum-xrp/blob/main/README.md)
+- [License](https://github.com/jackdev712/electrum-xrp/blob/main/license)
+
+---
+
+Thank you for using **Electrum XRP**! 🎉
